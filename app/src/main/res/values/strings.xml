@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CamelRace</string>
+    <string name="str_btn_start">Start !</string>
+    <string name="str_tv_first">First</string>
+    <string name="str_tv_second">Second</string>
+    <string name="str_tv_third">Third</string>
+</resources>
